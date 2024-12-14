@@ -13,8 +13,7 @@
 - 👯 I’m looking to collaborate on **My FInal Year Project**
 
 - 👨‍💻 All of my projects are available at [amanxsyed.netlify](amanxsyed.netlify)
-- [Syed Aman Shah](<https://github.com/amanxsyed>)
-- **Email**: [amanxsyed@gmail.com](mailto:amanxsyed@gmail.com)
+  
 - 📫 How to reach me [amanxsyed@gmail.com](mailto:amanxsyed@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
