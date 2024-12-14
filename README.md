@@ -1,5 +1,4 @@
 [![MasterHead](https://www.valuecoders.com/blog/wp-content/uploads/2017/12/progressive-web-apps.gif)](https://amanxsyed.io)
-[![MasterHead]<img align="right" alt="coding" height="500" width="900" src="https://www.valuecoders.com/blog/wp-content/uploads/2017/12/progressive-web-apps.gif"/>]
 <h1 align="center">Hi 👋, I'm Syed Aman Shah</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://www.targeticon.com/static/media/web-app-development.7dcba28e5dee4bf603bc.gif"
