@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [amanxsyed.netlify](amanxsyed.netlify)
   
-- 📫 How to reach me [amanxsyed@gmail.com](mailto:amanxsyed@gmail.com)
+- 📫 Reach out to me [amanxsyed@gmail.com](mailto:amanxsyed@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
