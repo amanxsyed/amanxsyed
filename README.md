@@ -5,13 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanxsyed&label=Profile%20views&color=0e75b6&style=flat" alt="amanxsyed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanxsyed" alt="amanxsyed" /></a> </p>
 
-- 🔭 I’m currently working on [Developer Portfolio](xyxzz)
+- 🔭 I’m currently working on [Developer Portfolio](https://github.com/amanxsyed/Portfolio.git)
 
 - 🌱 I’m currently learning **React & Django**
 
-- 👯 I’m looking to collaborate on **this**
+- 👯 I’m looking to collaborate on **My FInal Year Project**
 
 - 👨‍💻 All of my projects are available at [amanxsyed.netlify](amanxsyed.netlify)
 
