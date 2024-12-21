@@ -1,6 +1,14 @@
 [![MasterHead](https://www.valuecoders.com/blog/wp-content/uploads/2017/12/progressive-web-apps.gif)](https://amanxsyed.io)
-<h1 align="center">Hi 👋, I'm Syed Aman Shah</h1>
-<h3 align="center">A frontend developer representing Pakistan 🇵🇰</h3>
+<h1 align="center">Hi there👋, I'm Syed Aman Shah</h1>
+<h3 align="center">A Front-End Developer from Pakistan 🇵🇰 </h3>
+<h4 align="center">Pursuing B.Tech from Lovely Professional University, Phagwara, Punjab</h4>
+<p align="center">
+<!-- 	<a href="https://amanxsyed.github.io">Profile</a> -  -->
+	<a href="https://linkedin.com/amanxsyed">LinkedIn</a> - 
+	<a href="mailto:amanxsyed@gmail.com">Email</a> - 
+	<a href="https://x.com/amanxsyed">X</a> -
+<!-- 	<a href="https://medium.com/@amanxsyed">Medium</a> -->
+</p>
 <img align="right" alt="coding" width="400" src="https://www.targeticon.com/static/media/web-app-development.7dcba28e5dee4bf603bc.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanxsyed&label=Profile%20views&color=0e75b6&style=flat" alt="amanxsyed" /> </p>
