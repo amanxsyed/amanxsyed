@@ -6,7 +6,7 @@
 <!-- 	<a href="https://amanxsyed.github.io">Profile</a> -  -->
 	<a href="https://linkedin.com/amanxsyed">LinkedIn</a> - 
 	<a href="mailto:amanxsyed@gmail.com">Email</a> - 
-	<a href="https://x.com/amanxsyed">X</a> -
+	<a href="https://instagram.com/amanxsyed">Instagram</a>
 <!-- 	<a href="https://medium.com/@amanxsyed">Medium</a> -->
 </p>
 <img align="right" alt="coding" width="400" src="https://www.targeticon.com/static/media/web-app-development.7dcba28e5dee4bf603bc.gif"/>
