@@ -1,7 +1,7 @@
 [![MasterHead](https://www.valuecoders.com/blog/wp-content/uploads/2017/12/progressive-web-apps.gif)](https://amanxsyed.io)
 <h1 align="center">Hi there👋, I'm Syed Aman Shah</h1>
 <h3 align="center">Front-End Developer from Pakistan 🇵🇰 </h3>
-<h4 align="center">Developing Responsive or User Friendly Interface</h4>
+<h4 align="center">Developing Responsive & User Friendly Interface</h4>
 <p align="center">
 <!-- 	<a href="https://amanxsyed.github.io">Profile</a> -  -->
 	<a href="https://linkedin.com/amanxsyed">LinkedIn</a> - 
