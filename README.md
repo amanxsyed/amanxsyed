@@ -21,9 +21,9 @@
   <img src="https://komarev.com/ghpvc/?username=amanxsyed&label=Profile%20views&color=0e75b6&style=flat" alt="amanxsyed" />
 </p>
 
-- 🔭 I’m currently working on [Developer Portfolio](https://github.com/amanxsyed/Portfolio.git)
+- 🔭 Here is my [Developer Portfolio](https://amanshahlive.vercel.app/)
 - 🌱 I’m currently learning **React & Django**
-- 👯 I’m looking to collaborate on **My Final Year Project**
+- 👯 I’m looking to collaborate on **Department Management System**
 - 👨‍💻 All of my projects are available at [amanxsyed.netlify](amanxsyed.netlify)
 - 📫 Reach out to me [amanxsyed@gmail.com](mailto:amanxsyed@gmail.com)
 
@@ -81,7 +81,7 @@
 </div>
 <hr/>
 
-# 📊 GitHub Stats:
+<div align="center" ># 📊 GitHub Stats:</div>
 
 ![](https://github-readme-stats.vercel.app/api?username=amanxsyed&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanxsyed&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
