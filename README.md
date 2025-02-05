@@ -1,9 +1,4 @@
 [![MasterHead](https://www.valuecoders.com/blog/wp-content/uploads/2017/12/progressive-web-apps.gif)](https://amanxsyed.io)
-<hr/>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Myself+Syed+Aman+Shah!;Full+Stack+Web+Developer+💻;" />
-</h1>
 
 <h1 align="center">Hi 👋, I'm Syed Aman Shah</h1>
 <h3 align="center">Front-End Developer from Pakistan 🇵🇰</h3>
@@ -15,9 +10,9 @@
   <a href="https://instagram.com/amanxsyed">Instagram</a>
 </p>
 
-<img align="right" alt="coding" width="400" src="https://www.targeticon.com/static/media/web-app-development.7dcba28e5dee4bf603bc.gif"/>
+<img align="center" alt="coding" width="400" src="https://www.targeticon.com/static/media/web-app-development.7dcba28e5dee4bf603bc.gif"/>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=amanxsyed&label=Profile%20views&color=0e75b6&style=flat" alt="amanxsyed" />
 </p>
 
@@ -27,8 +22,8 @@
 - 👨‍💻 All of my projects are available at [amanxsyed.netlify](amanxsyed.netlify)
 - 📫 Reach out to me [amanxsyed@gmail.com](mailto:amanxsyed@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://linkedin.com/in/amanxsyed" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanxsyed" height="30" width="40" />
   </a>
@@ -37,11 +32,11 @@
   </a>
 </p>
 
-<img align="right" alt="coding" width="400" height="250" src="https://static.wixstatic.com/media/d8b182_37e8bb1f59554749a15ce0f9ced8b726~mv2.gif"/>
+<img align="center" alt="coding" width="400" height="250" src="https://static.wixstatic.com/media/d8b182_37e8bb1f59554749a15ce0f9ced8b726~mv2.gif"/>
 
-# Languages and Tools: <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" height="30px">
+<h2 align="center">Languages and Tools:</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
   </a>
@@ -59,11 +54,17 @@
   </a>
 </p>
 
-# 📊 GitHub Stats:
+<h2 align="center">📊 GitHub Stats:</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=amanxsyed&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanxsyed&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=amanxsyed&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amanxsyed&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanxsyed&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanxsyed&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
