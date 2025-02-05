@@ -58,6 +58,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
   </a>
 </p> -->
+<hr/>
 <h2 align="center">📚 My Stack 📚</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
@@ -78,7 +79,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,figma,docker,postman" />
 </div>
-<br/>
+<hr/>
 
 # 📊 GitHub Stats:
 
