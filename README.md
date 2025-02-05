@@ -37,9 +37,9 @@
   </a>
 </p>
 
-<img align="right" alt="coding" width="400" height="250" src="https://static.wixstatic.com/media/d8b182_37e8bb1f59554749a15ce0f9ced8b726~mv2.gif"/>
+<!--<img align="right" alt="coding" width="400" height="250" src="https://static.wixstatic.com/media/d8b182_37e8bb1f59554749a15ce0f9ced8b726~mv2.gif"/> -->
 
-# Languages and Tools: <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" height="30px">
+<!-- # Languages and Tools: <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" height="30px">
 
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -57,7 +57,28 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
   </a>
-</p>
+</p> -->
+<h2 align="center">📚 My Stack 📚</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+</div>
+
+<h2 align="center">🎨 Frontend 🎨</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,materialui"/>
+    <img src="https://skillicons.dev/icons?i=babel,webpack,githubactions,vite"/>
+</div>
+
+<h2 align="center">⚙️ Backend ⚙️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo" />
+</div>
+
+<h2 align="center">⚒️ Tools & Technologies ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,figma,docker,postman" />
+</div>
+<br/>
 
 # 📊 GitHub Stats:
 
