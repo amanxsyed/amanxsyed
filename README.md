@@ -2,12 +2,12 @@
 <hr/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Myself+Syed+Aman+Shah!;Full+Stack+Web+Developer+💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Myself+Syed+Aman+Shah!;Full+Stack+Web+Developer+💻;" />
 </h1>
 
 <h1 align="center">Hi 👋, I'm Syed Aman Shah</h1>
-<h3 align="center">Front-End Developer from Pakistan 🇵🇰</h3>
-<h4 align="center">Developing Responsive & User Friendly Interface</h4>
+<h3 align="center">Full Stack Web Developer from Pakistan 🇵🇰</h3>
+<h4 align="center">Developing Responsive & User Friendly Websites</h4>
 
 <p align="center">
   <a href="https://linkedin.com/amanxsyed">LinkedIn</a> - 
