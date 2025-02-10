@@ -59,7 +59,7 @@
   </a>
 </p> -->
 <hr/>
-<h2 align="center">📚 My Stack 📚</h2>
+<h2 align="center">📚 My Tech Stack 📚</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 </div>
