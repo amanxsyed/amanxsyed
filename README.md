@@ -21,10 +21,10 @@
   <img src="https://komarev.com/ghpvc/?username=amanxsyed&label=Profile%20views&color=0e75b6&style=flat" alt="amanxsyed" />
 </p>
 
-- 🔭 Here is my [Developer Portfolio](https://amanshahlive.vercel.app/)
+- 🔭 Here is my [Portfolio](https://amanshahlive.vercel.app/)
 - 🌱 I’m currently learning **React & Django**
 - 👯 I’m looking to collaborate on **Department Management System**
-- 👨‍💻 All of my projects are available at [amanshahlive](https://amanshahlive.vercel.app/)
+  <!--- 👨‍💻 All of my projects are available at [amanshahlive](https://amanshahlive.vercel.app/) -->
 - 📫 Reach out to me [amanxsyed@gmail.com](mailto:amanxsyed@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
