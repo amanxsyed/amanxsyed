@@ -91,7 +91,7 @@
   </a>
 <hr/>
 </div>
-<h2 align="center">🎨 Frontend 🎨</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=amanxsyed&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanxsyed&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
