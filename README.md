@@ -105,6 +105,7 @@
 <hr/>
 <h2 align ="center"> 🤣 A Little Humor for You  </h2>
 <div align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="500" /></div>
+<hr/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+my+Profile!+💖;Let's+Connect!+🚀;" />
 </h1>
