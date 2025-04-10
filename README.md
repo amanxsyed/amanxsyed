@@ -45,28 +45,6 @@
 </p>
 
 ---
-
-<!--<img align="right" alt="coding" width="400" height="250" src="https://static.wixstatic.com/media/d8b182_37e8bb1f59554749a15ce0f9ced8b726~mv2.gif"/> -->
-
-<!-- # Languages and Tools: <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" height="30px">
-
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-  </a>
-</p> -->
 <div align="center>
 <!-- contribution graph -->
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
@@ -78,21 +56,21 @@
   </a>
 <hr/>
 </div>
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2> 
 
 ![](https://github-readme-stats.vercel.app/api?username=amanxsyed&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanxsyed&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amanxsyed&theme=dark&hide_border=true)
 <hr/>
 
-##🐍 My Contributions 🐍
+
 <div align="center">
-  
+  <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://github.com/amanxsyed/amanxsyed/blob/output/github-snake-dark.svg" />
 </div>
 <hr/>
-## 🤣 A Little Humor for You
+<h2>🤣 A Little Humor for You</h2> 
 <div align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="500" /></div>
 <hr/>
 <h1 align="center">
