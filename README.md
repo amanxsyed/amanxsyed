@@ -21,21 +21,21 @@
 
 ## 🌟 About Me
 
-🚀 **MERN Stack Developer** with **4+ years of experience** specializing in building scalable applications and cloud infrastructure. Passionate about developing high-performance, efficient, and modern web applications that drive business success.
+🚀 **MERN Stack Developer** with **2+ years of experience** specializing in building scalable web applications. Passionate about developing high-performance, efficient, and modern web applications that drive business success.
 
 📍 **Location:** Lahore, Pakistan  
-💼 **Current Role:** Software Engineer at **DEVWOLFZ**  
-📧 **Email:** ahsan.dev.404@gmail.com  
-🔗 **Portfolio:** [GitHub](https://github.com/AhsanDev404) | [LinkedIn](https://www.linkedin.com/in/ahsandev404/)
+💼 **Current Role:** Software Engineer at **Enigmatix**  
+📧 **Email:** amanxsyed@gmail.com  
+🔗 **Portfolio:** [GitHub](https://github.com/amanxsyed) | [LinkedIn](https://www.linkedin.com/in/amanxsyed/)
 
 ---
 
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahsandev404/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/AhsanDev404"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
-  <a href="https://twitter.com/AhsanDev404"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter"></a>
+  <a href="https://www.linkedin.com/in/amanxsyed/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/amanxsyed"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
+  <a href="https://twitter.com/amanxsyed"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter"></a>
 </p>
 
 ---
