@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+<h2 align="center">🛠️ Tech Stack & Tools</h2> 
 
 🔹 **Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 🤝 Connect with Me
+<h2 align="center">🤝 Connect with Me</h2> 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amanxsyed/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
@@ -46,7 +46,7 @@
 
 ---
 <div align="center>
-<!-- contribution graph -->
+Contribution Graph
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=amanxsyed&theme=react-dark" />
@@ -56,20 +56,20 @@
   </a>
 <hr/>
 </div>
-<h2>📊 GitHub Stats</h2> 
+<h2 align="center">📊 GitHub Stats</h2> 
 
 ![](https://github-readme-stats.vercel.app/api?username=amanxsyed&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanxsyed&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amanxsyed&theme=dark&hide_border=true)
 <hr/>
 
-<h2>🐍 My Contributions 🐍</h2>
+<h2 align="center">🐍 My Contributions 🐍</h2>
 <div align="center">
   <br>
   <img alt="snake eating my contributions" src="https://github.com/amanxsyed/amanxsyed/blob/output/github-snake-dark.svg" />
 </div>
 <hr/>
-<h2>🤣 A Little Humor for You</h2> 
+<h2 align="center">🤣 A Little Humor for You</h2> 
 <div align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="500" /></div>
 <hr/>
 <h1 align="center">
