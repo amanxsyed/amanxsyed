@@ -67,27 +67,6 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
   </a>
 </p> -->
-<h2 align="center">📚 My Tech Stack 📚</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
-</div>
-
-<h2 align="center">🎨 Frontend 🎨</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,materialui"/>
-    <img src="https://skillicons.dev/icons?i=babel,webpack,githubactions,vite"/>
-</div>
-
-<h2 align="center">⚙️ Backend ⚙️</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo" />
-</div>
-
-<h2 align="center">⚒️ Tools & Technologies ⚒️</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,docker,postman" />
-</div>
-<hr/>
 <div align="center>
 <!-- contribution graph -->
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
