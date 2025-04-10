@@ -78,19 +78,21 @@
   </a>
 <hr/>
 </div>
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=amanxsyed&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanxsyed&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amanxsyed&theme=dark&hide_border=true)
 <hr/>
+
+##🐍 My Contributions 🐍
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  
   <br>
   <img alt="snake eating my contributions" src="https://github.com/amanxsyed/amanxsyed/blob/output/github-snake-dark.svg" />
 </div>
 <hr/>
-<h2 align ="center"> 🤣 A Little Humor for You  </h2>
+## 🤣 A Little Humor for You
 <div align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="500" /></div>
 <hr/>
 <h1 align="center">
