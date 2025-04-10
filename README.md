@@ -15,8 +15,6 @@
   <a href="https://instagram.com/amanxsyed">Instagram</a>
 </p>
 
-<img align="right" alt="coding" width="400" src="https://www.targeticon.com/static/media/web-app-development.7dcba28e5dee4bf603bc.gif"/>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=amanxsyed&label=Profile%20views&color=0e75b6&style=flat" alt="amanxsyed" />
 </p>
