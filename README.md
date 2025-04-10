@@ -1,4 +1,5 @@
-[![MasterHead](https://www.valuecoders.com/blog/wp-content/uploads/2017/12/progressive-web-apps.gif)](https://amanxsyed.io)
+<!-- [![MasterHead](https://www.valuecoders.com/blog/wp-content/uploads/2017/12/progressive-web-apps.gif)](https://amanxsyed.io) -->
+# 🚀 Welcome to My GitHub! I'm Syed Aman Shah
 <hr/>
 
 <h1 align="center">
