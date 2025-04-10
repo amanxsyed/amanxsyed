@@ -1,6 +1,4 @@
 <!-- [![MasterHead](https://www.valuecoders.com/blog/wp-content/uploads/2017/12/progressive-web-apps.gif)](https://amanxsyed.io) -->
-# 🚀 Welcome to My GitHub! I'm Syed Aman Shah
-<hr/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Myself+Syed+Aman+Shah!;Full+Stack+Web+Developer+💻;" />
