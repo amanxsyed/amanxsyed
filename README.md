@@ -1,19 +1,10 @@
 <!-- [![MasterHead](https://www.valuecoders.com/blog/wp-content/uploads/2017/12/progressive-web-apps.gif)](https://amanxsyed.io) -->
 # 🚀 Welcome to My GitHub! I'm Syed Aman
 
-<h1 align="center">
+<h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Experienced+MERN+Stack+Developer;Building+Scalable+Web+Apps;" />
-</h1>
+</h2>
 
-<h1 align="center">Hi 👋, I'm Syed Aman Shah</h1>
-<h3 align="center">Full Stack Web Developer from Pakistan 🇵🇰</h3>
-<h4 align="center">Developing Responsive & User Friendly Websites</h4>
-
-<p align="center">
-  <a href="https://linkedin.com/amanxsyed">LinkedIn</a> - 
-  <a href="mailto:amanxsyed@gmail.com">Email</a> - 
-  <a href="https://instagram.com/amanxsyed">Instagram</a>
-</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=amanxsyed&label=Profile%20views&color=0e75b6&style=flat" alt="amanxsyed" />
