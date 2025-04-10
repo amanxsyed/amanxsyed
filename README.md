@@ -2,7 +2,7 @@
 # 🚀 Welcome to My GitHub! I'm Syed Aman
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Myself+Syed+Aman+Shah!;Full+Stack+Web+Developer+💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Experienced+MERN+Stack+Developer;Building+Scalable+Web+Apps;" />
 </h1>
 
 <h1 align="center">Hi 👋, I'm Syed Aman Shah</h1>
