@@ -1,5 +1,6 @@
 <!-- [![MasterHead](https://www.valuecoders.com/blog/wp-content/uploads/2017/12/progressive-web-apps.gif)](https://amanxsyed.io) -->
 # 🚀 Welcome to My GitHub! I'm Syed Aman
+![Profile Banner](https://media.licdn.com/dms/image/v2/D4D16AQGSSWT9DHVUlw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719725262223?e=1749686400&v=beta&t=8Vw1F7MfjXCd8NvOuIQ41U5spceOMZAaQvQQ4_j3iHE)
 
 <h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Experienced+MERN+Stack+Developer;Building+Scalable+Web+Apps;" />
