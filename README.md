@@ -63,9 +63,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amanxsyed&theme=dark&hide_border=true)
 <hr/>
 
-
+<h2>🐍 My Contributions 🐍</h2>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://github.com/amanxsyed/amanxsyed/blob/output/github-snake-dark.svg" />
 </div>
