@@ -1,12 +1,10 @@
 <!-- [![MasterHead](https://www.valuecoders.com/blog/wp-content/uploads/2017/12/progressive-web-apps.gif)](https://amanxsyed.io) -->
 # 🚀 Welcome to My GitHub! I'm Syed Aman
 
-<!-- <h1 align="center">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Myself+Syed+Aman+Shah!;Full+Stack+Web+Developer+💻;" />
-</h1> -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=MERN+Stack+Developer;Building+Scalable+Web+Apps" alt="Typing SVG" />
-</p>
+</h1>
+
 <h1 align="center">Hi 👋, I'm Syed Aman Shah</h1>
 <h3 align="center">Full Stack Web Developer from Pakistan 🇵🇰</h3>
 <h4 align="center">Developing Responsive & User Friendly Websites</h4>
@@ -23,21 +21,26 @@
   <img src="https://komarev.com/ghpvc/?username=amanxsyed&label=Profile%20views&color=0e75b6&style=flat" alt="amanxsyed" />
 </p>
 
-- 🔭 Here is my [Portfolio](https://amanshahlive.vercel.app/)
-- 🌱 I’m currently learning **React & Django**
-- 👯 I’m looking to collaborate on **Department Management System**
-  <!--- 👨‍💻 All of my projects are available at [amanshahlive](https://amanshahlive.vercel.app/) -->
-- 📫 Reach out to me [amanxsyed@gmail.com](mailto:amanxsyed@gmail.com)
+## 🌟 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/amanxsyed" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanxsyed" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/amanxsyed" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amanxsyed" height="30" width="40" />
-  </a>
+🚀 **MERN Stack Developer** with **4+ years of experience** specializing in building scalable applications and cloud infrastructure. Passionate about developing high-performance, efficient, and modern web applications that drive business success.
+
+📍 **Location:** Lahore, Pakistan  
+💼 **Current Role:** Software Engineer at **DEVWOLFZ**  
+📧 **Email:** ahsan.dev.404@gmail.com  
+🔗 **Portfolio:** [GitHub](https://github.com/AhsanDev404) | [LinkedIn](https://www.linkedin.com/in/ahsandev404/)
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahsandev404/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/AhsanDev404"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
+  <a href="https://twitter.com/AhsanDev404"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter"></a>
 </p>
+
+---
 
 <!--<img align="right" alt="coding" width="400" height="250" src="https://static.wixstatic.com/media/d8b182_37e8bb1f59554749a15ce0f9ced8b726~mv2.gif"/> -->
 
