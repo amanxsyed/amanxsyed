@@ -22,17 +22,26 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+<h2 align="center">📚 My Tech Stack 📚</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+</div>
 
-🔹 **Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+<h2 align="center">🎨 Frontend 🎨</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,materialui"/>
+    <img src="https://skillicons.dev/icons?i=babel,webpack,githubactions,vite"/>
+</div>
 
-🔹 **Backend:** <img src="https://skillicons.dev/icons?i=nodejs,express,mongo" />
+<h2 align="center">⚙️ Backend ⚙️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo" />
+</div>
 
-🔹 **Databases:** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-🔹 **DevOps & Cloud:** ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-EB5757?style=flat&logo=gitlab&logoColor=white)
-
-🔹 **Tools & Collaboration:** <img src="https://skillicons.dev/icons?i=git,github,figma,docker,postman,jira" />
+<h2 align="center">⚒️ Tools & Technologies ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,figma,docker,postman" />
+</div>
 
 ---
 
