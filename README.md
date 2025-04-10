@@ -1,9 +1,12 @@
 <!-- [![MasterHead](https://www.valuecoders.com/blog/wp-content/uploads/2017/12/progressive-web-apps.gif)](https://amanxsyed.io) -->
+# 🚀 Welcome to My GitHub! I'm Syed Aman
 
-<h1 align="center">
+<!-- <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Myself+Syed+Aman+Shah!;Full+Stack+Web+Developer+💻;" />
-</h1>
-
+</h1> -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=MERN+Stack+Developer;Building+Scalable+Web+Apps" alt="Typing SVG" />
+</p>
 <h1 align="center">Hi 👋, I'm Syed Aman Shah</h1>
 <h3 align="center">Full Stack Web Developer from Pakistan 🇵🇰</h3>
 <h4 align="center">Developing Responsive & User Friendly Websites</h4>
