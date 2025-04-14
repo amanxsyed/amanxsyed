@@ -3,7 +3,7 @@
 ![Profile Banner](https://media.licdn.com/dms/image/v2/D4D16AQGSSWT9DHVUlw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719725262223?e=1749686400&v=beta&t=8Vw1F7MfjXCd8NvOuIQ41U5spceOMZAaQvQQ4_j3iHE)
 
 <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Experienced+MERN+Stack+Developer;Building+Scalable+Web+Apps;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=MERN+Stack+Developer;Building+Scalable+Web+Apps;" />
 </h2>
 
 
@@ -13,7 +13,7 @@
 
 ## 🌟 About Me
 
-🚀 **MERN Stack Developer** with **2+ years of experience** specializing in building scalable web applications. Passionate about developing high-performance, efficient, and modern web applications that drive business success.
+🚀 **MERN Stack Developer** with **1+ years of experience** specializing in building scalable web applications. Passionate about developing high-performance, efficient, and modern web applications that drive business success.
 
 📍 **Location:** Lahore, Pakistan  
 💼 **Current Role:** Software Engineer at **Enigmatix**  
@@ -37,11 +37,12 @@
 ---
 
 <h2 align="center">🤝 Connect with Me</h2> 
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/amanxsyed/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/amanxsyed"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
-  <a href="https://twitter.com/amanxsyed"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter"></a>
+  <a href="https://linkedin.com/in/amanxsyed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:amanxsyed@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://twitter.com/amanxsyed"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter"></a>
+  <a href="https://instagram.com/amanxsyed"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.snapchat.com/add/amanxsyed"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"></a>
 </p>
 
 ---
